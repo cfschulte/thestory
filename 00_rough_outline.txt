@@ -1,5 +1,28 @@
-I.  Introduction
-II. Embarking on the journey.
-	1. the technology
-	2. The team members
-	3. 
+####
+# The outline. Each file starts with the numerical equivalent of the outline
+I.   Introduction
+II.  Embarking on the journey.
+     1. the technology
+     2. The team members
+     3. 
+III. The trip
+     1. real physics
+     2. fractal universe
+IV.  Return
+	 1. The climate, from global warming to a crash into ice age 
+	 2. Meeting other immortals and alternatives to complete downloading.
+	 	a. Introduction to some of the beings that opted for that. Some are still around, some have died.
+	 3. New species of humans, animals, and animal/machine hybrids.
+	 
+
+
+
+
+####
+# Work out what the imaginary humans and beasts exist.
+# These files will be unordered in a separate directory
+  The night people - ground dwellers.
+  The dawn/evening people - dwellings in the trees and cliffs
+  The ravens
+  The Grey parrot
+  the Magpie 
